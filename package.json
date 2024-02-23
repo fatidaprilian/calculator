@@ -1,0 +1,32 @@
+{
+    "name": "calculatorbersatu",
+    "version": "0.0.3",
+    "description": "📦 npm package tutorial",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fatidaprilian/calculator.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "Ryu",
+        "email": "faridaprilian215@gmail.com",
+        "url": "https://ryuen215.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fatidaprilian/calculator/issues"
+    },
+    "homepage": "https://github.com/fatidaprilian/calculator#readme"
+}
