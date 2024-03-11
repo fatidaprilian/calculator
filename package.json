@@ -1,6 +1,6 @@
 {
     "name": "calculatorbersatu",
-    "version": "0.0.3",
+    "version": "0.0.8",
     "description": "📦 npm package tutorial",
     "main": "index.js",
     "scripts": {
@@ -28,5 +28,9 @@
     "bugs": {
         "url": "https://github.com/fatidaprilian/calculator/issues"
     },
-    "homepage": "https://github.com/fatidaprilian/calculator#readme"
+    "homepage": "https://github.com/fatidaprilian/calculator#readme",
+    "dependencies": {
+        "validation-form-library": "^1.0.3",
+        "web-project-boilerplate": "^1.0.11"
+    }
 }
